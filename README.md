@@ -1,6 +1,8 @@
-## Hi there 👋
-
-<!--
+## Hello! 👋
+- 🔭 I’m Windows1145 ...
+- 🌱 I’m currently learning PocketMine ...
+-     我是Windows1145
+-     只会写烂插件的屑
 **MC-Windows1145/MC-Windows1145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
